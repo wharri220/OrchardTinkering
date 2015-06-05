@@ -1,0 +1,8 @@
+﻿@{
+    var productId = (int)Model.ProductId;
+}
+
+@using (Html.BeginForm("Add", "ShoppingCart", new { id = productId }))
+{
+    <button type="submit">@T("Add to shoppingcart")</button>
+}
