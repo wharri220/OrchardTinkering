@@ -24,7 +24,7 @@ namespace Skywalker.Webshop.Drivers
 
                 // Shape 2: Parts_Product_AddButton
                 ContentShape("Parts_Product_AddButton", () => shapeHelper.Parts_Product_AddButton(ProductId: part.Id))
-                
+
             );
         }
 

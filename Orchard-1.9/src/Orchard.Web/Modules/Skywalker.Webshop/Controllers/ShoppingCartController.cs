@@ -1,6 +1,7 @@
 ﻿using System.Web.Mvc;
 using Orchard;
 using Orchard.Mvc;
+using Orchard.Mvc.AntiForgery;
 using Skywalker.Webshop.Services;
 
 namespace Skywalker.Webshop.Controllers
