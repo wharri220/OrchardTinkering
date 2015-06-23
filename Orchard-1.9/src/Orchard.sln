@@ -263,6 +263,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skywalker.Webshop", "Orchard.Web\Modules\Skywalker.Webshop\Skywalker.Webshop.csproj", "{3A0ECFBF-86F4-42F8-BC65-9FA4711FAECA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Movies", "Orchard.Web\Modules\Demo.Movies\Demo.Movies.csproj", "{EA0145F3-51FC-4CED-AF18-F3A72A211D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		CodeCoverage|Any CPU = CodeCoverage|Any CPU
@@ -272,6 +274,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA0145F3-51FC-4CED-AF18-F3A72A211D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0145F3-51FC-4CED-AF18-F3A72A211D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0145F3-51FC-4CED-AF18-F3A72A211D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0145F3-51FC-4CED-AF18-F3A72A211D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{50B779EA-EC00-4699-84C0-03B395C365D2}.CodeCoverage|Any CPU.ActiveCfg = Release|Any CPU
 		{50B779EA-EC00-4699-84C0-03B395C365D2}.CodeCoverage|Any CPU.Build.0 = Release|Any CPU
 		{50B779EA-EC00-4699-84C0-03B395C365D2}.Coverage|Any CPU.ActiveCfg = Release|Any CPU
@@ -1159,5 +1165,6 @@ Global
 		{6BD8B2FA-F2E3-4AC8-A4C3-2925A653889A} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 		{82190F52-2901-46D6-8A4C-34649959483F} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 		{3A0ECFBF-86F4-42F8-BC65-9FA4711FAECA} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
+		{EA0145F3-51FC-4CED-AF18-F3A72A211D7A} = {E9C9F120-07BA-4DFB-B9C3-3AFB9D44C9D5}
 	EndGlobalSection
 EndGlobal
