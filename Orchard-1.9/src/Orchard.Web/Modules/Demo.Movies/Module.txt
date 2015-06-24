@@ -1,10 +1,10 @@
 ﻿Name: Demo.Movies
 AntiForgery: enabled
-Author: The Orchard Team
+Author: Westley Harris
 Website: http://orchardproject.net
 Version: 1.0
-OrchardVersion: 1.0
-Description: Description for the module
+OrchardVersion: 1.4
+Description: Demo Movie database site
 Features:
     Demo.Movies:
         Description: Description for feature Demo.Movies.
